@@ -1,0 +1,54 @@
+#home {
+    clear: both;
+    background: black;
+    color: white;
+}
+
+#home .emp{
+    color: white;
+    padding: 20px 0px;
+
+}
+
+#home .btn-search{
+    background: white;
+    height: 40px;
+    width: 200px;
+}
+
+#home .con{
+    margin: 10px 0px;
+}
+
+    #home .con .tit{
+        text-transform: capitalize;
+        font-size: 28px;
+        color: White;
+        text-align: left;
+        padding: 20px 0px;
+        font-weight: bold;
+    }
+    #home .con .sub-tit{
+        font-size: 18px;
+        color: White;
+        text-align: left;
+        padding: 10px 0px;
+    }
+    #home .con .box-img{
+        text-align: left;
+    }
+    #home .con .img{
+        width: 80%;
+        height: 180px;
+        border: 1px solid white;
+        border-bottom: 2px solid white;
+        border-right: 2px solid white;
+    }
+    #home .con .det{
+        height: 400px;
+        color: white;
+    }
+
+    #home .con .det .txt{
+        color: white;
+    }
