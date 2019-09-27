@@ -1,0 +1,13 @@
+body{
+  background: black;
+}
+#nav li{
+  float: left;
+  color: white;
+  width: 150px;
+  padding: 20px 10px;
+}
+
+#nav li a{
+  color: white;
+}
